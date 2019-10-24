@@ -91,7 +91,7 @@ Instructions for installing airship+tungstenfabric using the Regional Controller
 
     This will cause the POD to be created, and the *deploy.sh* workflow script to be
     run on the Regional Controller's workflow engine. This in turn will login to remote node by ssh
-    and install airship+ tungstenfabric demo on it.
+    and install airship+tungstenfabric demo on it.
 
 12. If you want to monitor ongoing progess of the installation, you can issue periodic calls
     to monitor the POD with:
@@ -104,3 +104,4 @@ Instructions for installing airship+tungstenfabric using the Regional Controller
     workflow, as well as the current status of the workflow. The status will be WORKFLOW
     while the workflow is running, and wil change to ACTIVE if the workflow completes
     succesfully, or FAILED, if the workflow fails.
+    
