@@ -1,0 +1,6 @@
+I, Gleb Galkin, hereby sign-off-by all of my past commits to this repo subject to the Developer Certificate of Origin (DCO), Version 1.1. In the past I have used emails: gleb108@gmail.com
+
+a1b3d3684d97b09b8d461285b6887c4b90a0f6db Minor README changes for testing
+e49215e4a54bf842a098ecbca00eea1f68875894 Log output was renamed. Changing README.md
+50d9ce556277834fbf72bb363a4f5371b1fb65c6 Changing README.md
+
